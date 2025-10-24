@@ -14,7 +14,7 @@ namespace Point_average
             string name = Console.ReadLine();
 
             Console.Write("Enter your National code or student number: ");
-            int Code = Convert.ToInt32(Console.ReadLine());
+            long Code = Convert.ToInt64(Console.ReadLine());
 
             Developer developer = new Developer();
             while (true)
