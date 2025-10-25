@@ -1,0 +1,7 @@
+C:\Users\Parnian Computer\source\repos\Point-average\Point-average\bin\Debug\Point-average.exe.config
+C:\Users\Parnian Computer\source\repos\Point-average\Point-average\bin\Debug\Point-average.exe
+C:\Users\Parnian Computer\source\repos\Point-average\Point-average\bin\Debug\Point-average.pdb
+C:\Users\Parnian Computer\source\repos\Point-average\Point-average\obj\Debug\Point-average.csproj.AssemblyReference.cache
+C:\Users\Parnian Computer\source\repos\Point-average\Point-average\obj\Debug\Point-average.csproj.CoreCompileInputs.cache
+C:\Users\Parnian Computer\source\repos\Point-average\Point-average\obj\Debug\Point-average.exe
+C:\Users\Parnian Computer\source\repos\Point-average\Point-average\obj\Debug\Point-average.pdb
